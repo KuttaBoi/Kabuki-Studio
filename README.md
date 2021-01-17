@@ -1,4 +1,4 @@
-# PROJECT_Z
-PROJECT_ZULOAGA
+# Kabuki Studio
+KABUKI_STUDIO
 
 By Enrique Silvela Peña
